@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\PhoneCallSubscription\bin\Debug\net10.0\PhoneCallSubscription.exe
+C:\Projects\Dotnet_Training\PhoneCallSubscription\bin\Debug\net10.0\PhoneCallSubscription.deps.json
+C:\Projects\Dotnet_Training\PhoneCallSubscription\bin\Debug\net10.0\PhoneCallSubscription.runtimeconfig.json
+C:\Projects\Dotnet_Training\PhoneCallSubscription\bin\Debug\net10.0\PhoneCallSubscription.dll
+C:\Projects\Dotnet_Training\PhoneCallSubscription\bin\Debug\net10.0\PhoneCallSubscription.pdb
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.sourcelink.json
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.dll
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\refint\PhoneCallSubscription.dll
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.pdb
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\PhoneCallSubscription.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\PhoneCallSubscription\obj\Debug\net10.0\ref\PhoneCallSubscription.dll

@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\MovieLibrary\bin\Debug\net10.0\MovieLibrary.exe
+C:\Projects\Dotnet_Training\MovieLibrary\bin\Debug\net10.0\MovieLibrary.deps.json
+C:\Projects\Dotnet_Training\MovieLibrary\bin\Debug\net10.0\MovieLibrary.runtimeconfig.json
+C:\Projects\Dotnet_Training\MovieLibrary\bin\Debug\net10.0\MovieLibrary.dll
+C:\Projects\Dotnet_Training\MovieLibrary\bin\Debug\net10.0\MovieLibrary.pdb
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.sourcelink.json
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.dll
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\refint\MovieLibrary.dll
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.pdb
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\MovieLibrary.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\MovieLibrary\obj\Debug\net10.0\ref\MovieLibrary.dll

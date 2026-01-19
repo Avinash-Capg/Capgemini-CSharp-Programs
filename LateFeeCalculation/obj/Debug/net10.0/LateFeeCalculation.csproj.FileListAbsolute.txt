@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\LateFeeCalculation\bin\Debug\net10.0\LateFeeCalculation.exe
+C:\Projects\Dotnet_Training\LateFeeCalculation\bin\Debug\net10.0\LateFeeCalculation.deps.json
+C:\Projects\Dotnet_Training\LateFeeCalculation\bin\Debug\net10.0\LateFeeCalculation.runtimeconfig.json
+C:\Projects\Dotnet_Training\LateFeeCalculation\bin\Debug\net10.0\LateFeeCalculation.dll
+C:\Projects\Dotnet_Training\LateFeeCalculation\bin\Debug\net10.0\LateFeeCalculation.pdb
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.sourcelink.json
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.dll
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\refint\LateFeeCalculation.dll
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.pdb
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\LateFeeCalculation.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\LateFeeCalculation\obj\Debug\net10.0\ref\LateFeeCalculation.dll

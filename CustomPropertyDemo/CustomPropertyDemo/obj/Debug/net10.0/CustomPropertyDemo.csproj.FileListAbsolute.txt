@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.exe
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.deps.json
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.runtimeconfig.json
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.dll
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.pdb
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.sourcelink.json
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.dll
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\refint\CustomPropertyDemo.dll
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.pdb
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\ref\CustomPropertyDemo.dll

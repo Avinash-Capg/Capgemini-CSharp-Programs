@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.exe
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.deps.json
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.runtimeconfig.json
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.dll
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.pdb
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.sourcelink.json
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.dll
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\refint\OperatorOverloadingDemo.dll
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.pdb
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\OperatorOverloadingDemo\obj\Debug\net10.0\ref\OperatorOverloadingDemo.dll

@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\MethodOverloading\bin\Debug\net10.0\MethodOverloading.exe
+C:\Projects\Dotnet_Training\MethodOverloading\bin\Debug\net10.0\MethodOverloading.deps.json
+C:\Projects\Dotnet_Training\MethodOverloading\bin\Debug\net10.0\MethodOverloading.runtimeconfig.json
+C:\Projects\Dotnet_Training\MethodOverloading\bin\Debug\net10.0\MethodOverloading.dll
+C:\Projects\Dotnet_Training\MethodOverloading\bin\Debug\net10.0\MethodOverloading.pdb
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.sourcelink.json
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.dll
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\refint\MethodOverloading.dll
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.pdb
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\MethodOverloading.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\MethodOverloading\obj\Debug\net10.0\ref\MethodOverloading.dll

@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\bin\Debug\net10.0\StudentMarksRecordSystem.exe
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\bin\Debug\net10.0\StudentMarksRecordSystem.deps.json
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\bin\Debug\net10.0\StudentMarksRecordSystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\bin\Debug\net10.0\StudentMarksRecordSystem.dll
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\bin\Debug\net10.0\StudentMarksRecordSystem.pdb
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.sourcelink.json
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.dll
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\refint\StudentMarksRecordSystem.dll
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.pdb
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\StudentMarksRecordSystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\StudentMarksRecordSystem\obj\Debug\net10.0\ref\StudentMarksRecordSystem.dll

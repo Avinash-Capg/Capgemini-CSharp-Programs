@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\FileIODemo\bin\Debug\net10.0\FileIODemo.exe
+C:\Projects\Dotnet_Training\FileIODemo\bin\Debug\net10.0\FileIODemo.deps.json
+C:\Projects\Dotnet_Training\FileIODemo\bin\Debug\net10.0\FileIODemo.runtimeconfig.json
+C:\Projects\Dotnet_Training\FileIODemo\bin\Debug\net10.0\FileIODemo.dll
+C:\Projects\Dotnet_Training\FileIODemo\bin\Debug\net10.0\FileIODemo.pdb
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.sourcelink.json
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.dll
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\refint\FileIODemo.dll
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.pdb
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\FileIODemo.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\FileIODemo\obj\Debug\net10.0\ref\FileIODemo.dll

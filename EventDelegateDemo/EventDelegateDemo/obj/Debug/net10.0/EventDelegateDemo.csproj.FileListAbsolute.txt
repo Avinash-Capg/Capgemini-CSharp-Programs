@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.exe
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.deps.json
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.runtimeconfig.json
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.dll
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.pdb
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.sourcelink.json
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.dll
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\refint\EventDelegateDemo.dll
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.pdb
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\EventDelegateDemo\EventDelegateDemo\obj\Debug\net10.0\ref\EventDelegateDemo.dll

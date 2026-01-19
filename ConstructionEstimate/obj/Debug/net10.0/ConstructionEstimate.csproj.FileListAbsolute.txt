@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\ConstructionEstimate\bin\Debug\net10.0\ConstructionEstimate.exe
+C:\Projects\Dotnet_Training\ConstructionEstimate\bin\Debug\net10.0\ConstructionEstimate.deps.json
+C:\Projects\Dotnet_Training\ConstructionEstimate\bin\Debug\net10.0\ConstructionEstimate.runtimeconfig.json
+C:\Projects\Dotnet_Training\ConstructionEstimate\bin\Debug\net10.0\ConstructionEstimate.dll
+C:\Projects\Dotnet_Training\ConstructionEstimate\bin\Debug\net10.0\ConstructionEstimate.pdb
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.sourcelink.json
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.dll
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\refint\ConstructionEstimate.dll
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.pdb
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ConstructionEstimate.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\ConstructionEstimate\obj\Debug\net10.0\ref\ConstructionEstimate.dll

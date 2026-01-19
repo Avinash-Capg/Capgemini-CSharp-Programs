@@ -1,0 +1,15 @@
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.AssemblyInfoInputs.cache
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.AssemblyInfo.cs
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.csproj.CoreCompileInputs.cache
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\bin\Debug\net10.0\AssessmentTask.exe
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\bin\Debug\net10.0\AssessmentTask.deps.json
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\bin\Debug\net10.0\AssessmentTask.runtimeconfig.json
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\bin\Debug\net10.0\AssessmentTask.dll
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\bin\Debug\net10.0\AssessmentTask.pdb
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.dll
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\refint\AssessmentTask.dll
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.pdb
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.genruntimeconfig.cache
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\ref\AssessmentTask.dll
+C:\Users\devik\OneDrive\Documents\training\AssessmentTask\obj\Debug\net10.0\AssessmentTask.sourcelink.json

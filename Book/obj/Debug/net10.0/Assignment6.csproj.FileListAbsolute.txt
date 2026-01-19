@@ -1,0 +1,14 @@
+C:\Users\devik\OneDrive\Documents\training\Assignment6\bin\Debug\net10.0\Assignment6.exe
+C:\Users\devik\OneDrive\Documents\training\Assignment6\bin\Debug\net10.0\Assignment6.deps.json
+C:\Users\devik\OneDrive\Documents\training\Assignment6\bin\Debug\net10.0\Assignment6.runtimeconfig.json
+C:\Users\devik\OneDrive\Documents\training\Assignment6\bin\Debug\net10.0\Assignment6.dll
+C:\Users\devik\OneDrive\Documents\training\Assignment6\bin\Debug\net10.0\Assignment6.pdb
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.AssemblyInfoInputs.cache
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.AssemblyInfo.cs
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.dll
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\refint\Assignment6.dll
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.pdb
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\Assignment6.genruntimeconfig.cache
+C:\Users\devik\OneDrive\Documents\training\Assignment6\obj\Debug\net10.0\ref\Assignment6.dll

@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\UserVerification\bin\Debug\net10.0\UserVerification.exe
+C:\Projects\Dotnet_Training\UserVerification\bin\Debug\net10.0\UserVerification.deps.json
+C:\Projects\Dotnet_Training\UserVerification\bin\Debug\net10.0\UserVerification.runtimeconfig.json
+C:\Projects\Dotnet_Training\UserVerification\bin\Debug\net10.0\UserVerification.dll
+C:\Projects\Dotnet_Training\UserVerification\bin\Debug\net10.0\UserVerification.pdb
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.sourcelink.json
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.dll
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\refint\UserVerification.dll
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.pdb
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\UserVerification.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\UserVerification\obj\Debug\net10.0\ref\UserVerification.dll

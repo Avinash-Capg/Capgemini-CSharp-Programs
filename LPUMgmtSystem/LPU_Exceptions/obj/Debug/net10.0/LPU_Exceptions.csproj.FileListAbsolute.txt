@@ -1,0 +1,11 @@
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.deps.json
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.dll
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.pdb
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfoInputs.cache
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfo.cs
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.dll
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\refint\LPU_Exceptions.dll
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.pdb
+C:\Users\devik\source\repos\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\ref\LPU_Exceptions.dll

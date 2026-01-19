@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.exe
+C:\Projects\Dotnet_Training\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.deps.json
+C:\Projects\Dotnet_Training\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.runtimeconfig.json
+C:\Projects\Dotnet_Training\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.dll
+C:\Projects\Dotnet_Training\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.pdb
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.sourcelink.json
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.dll
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\refint\LotteryTicketSystem.dll
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.pdb
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\LotteryTicketSystem\obj\Debug\net10.0\ref\LotteryTicketSystem.dll

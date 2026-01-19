@@ -1,0 +1,14 @@
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.exe
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.deps.json
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.runtimeconfig.json
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.dll
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\bin\Debug\net10.0\InterfaceDemoProj.pdb
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.AssemblyInfoInputs.cache
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.AssemblyInfo.cs
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.csproj.CoreCompileInputs.cache
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.dll
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\refint\InterfaceDemoProj.dll
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.pdb
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\InterfaceDemoProj.genruntimeconfig.cache
+C:\Users\devik\OneDrive\Documents\training\Day4Demo\InterfaceDemoProj\obj\Debug\net10.0\ref\InterfaceDemoProj.dll

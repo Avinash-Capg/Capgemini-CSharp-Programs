@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.sourcelink.json
+C:\Projects\Dotnet_Training\EcommerceApplication\bin\Debug\net10.0\EcommerceApplication.exe
+C:\Projects\Dotnet_Training\EcommerceApplication\bin\Debug\net10.0\EcommerceApplication.deps.json
+C:\Projects\Dotnet_Training\EcommerceApplication\bin\Debug\net10.0\EcommerceApplication.runtimeconfig.json
+C:\Projects\Dotnet_Training\EcommerceApplication\bin\Debug\net10.0\EcommerceApplication.dll
+C:\Projects\Dotnet_Training\EcommerceApplication\bin\Debug\net10.0\EcommerceApplication.pdb
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.dll
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\refint\EcommerceApplication.dll
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.pdb
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\EcommerceApplication.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\EcommerceApplication\obj\Debug\net10.0\ref\EcommerceApplication.dll

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateFeeCalculation", "LateFeeCalculation.csproj", "{1EE725E9-8ED2-AA21-1EB3-E70FD0C009C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE725E9-8ED2-AA21-1EB3-E70FD0C009C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE725E9-8ED2-AA21-1EB3-E70FD0C009C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE725E9-8ED2-AA21-1EB3-E70FD0C009C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE725E9-8ED2-AA21-1EB3-E70FD0C009C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CC0105-1D12-4F15-A08B-ED38B1AF8E3B}
+	EndGlobalSection
+EndGlobal

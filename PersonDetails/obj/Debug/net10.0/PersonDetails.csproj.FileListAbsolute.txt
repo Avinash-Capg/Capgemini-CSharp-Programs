@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.sourcelink.json
+C:\Projects\Dotnet_Training\PersonDetails\bin\Debug\net10.0\PersonDetails.exe
+C:\Projects\Dotnet_Training\PersonDetails\bin\Debug\net10.0\PersonDetails.deps.json
+C:\Projects\Dotnet_Training\PersonDetails\bin\Debug\net10.0\PersonDetails.runtimeconfig.json
+C:\Projects\Dotnet_Training\PersonDetails\bin\Debug\net10.0\PersonDetails.dll
+C:\Projects\Dotnet_Training\PersonDetails\bin\Debug\net10.0\PersonDetails.pdb
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.dll
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\refint\PersonDetails.dll
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.pdb
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\PersonDetails.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\PersonDetails\obj\Debug\net10.0\ref\PersonDetails.dll

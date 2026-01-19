@@ -1,0 +1,10 @@
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinSerializeDemo.csproj.AssemblyReference.cache
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinSerializeDemo.Form1.resources
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinSerializeDemo.csproj.GenerateResource.cache
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinSerializeDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Projects\Dotnet_Training\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,14 @@
+c:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfoInputs.cache
+c:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfo.cs
+c:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.exe
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.deps.json
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.runtimeconfig.json
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.dll
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.pdb
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.dll
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\refint\StudentMgmtSystemApp.dll
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.pdb
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.genruntimeconfig.cache
+C:\Users\devik\OneDrive\Documents\training\StudentMgmtSystemApp\obj\Debug\net10.0\ref\StudentMgmtSystemApp.dll
