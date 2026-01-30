@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.sourcelink.json
+C:\Projects\Dotnet_Training\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.exe
+C:\Projects\Dotnet_Training\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.deps.json
+C:\Projects\Dotnet_Training\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.runtimeconfig.json
+C:\Projects\Dotnet_Training\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.dll
+C:\Projects\Dotnet_Training\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.pdb
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.dll
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\refint\RealEstateListingManagement.dll
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.pdb
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\RealEstateListingManagement\obj\Debug\net10.0\ref\RealEstateListingManagement.dll

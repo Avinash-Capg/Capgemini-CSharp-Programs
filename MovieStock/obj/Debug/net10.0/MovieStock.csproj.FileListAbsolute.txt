@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\MovieStock\bin\Debug\net10.0\MovieStock.exe
+C:\Projects\Dotnet_Training\MovieStock\bin\Debug\net10.0\MovieStock.deps.json
+C:\Projects\Dotnet_Training\MovieStock\bin\Debug\net10.0\MovieStock.runtimeconfig.json
+C:\Projects\Dotnet_Training\MovieStock\bin\Debug\net10.0\MovieStock.dll
+C:\Projects\Dotnet_Training\MovieStock\bin\Debug\net10.0\MovieStock.pdb
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.sourcelink.json
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.dll
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\refint\MovieStock.dll
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.pdb
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\MovieStock.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\MovieStock\obj\Debug\net10.0\ref\MovieStock.dll

@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.exe
+C:\Projects\Dotnet_Training\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.deps.json
+C:\Projects\Dotnet_Training\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.runtimeconfig.json
+C:\Projects\Dotnet_Training\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.dll
+C:\Projects\Dotnet_Training\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.pdb
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.sourcelink.json
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.dll
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\refint\CalculateNumbers.dll
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.pdb
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\CalculateNumbers\obj\Debug\net10.0\ref\CalculateNumbers.dll
