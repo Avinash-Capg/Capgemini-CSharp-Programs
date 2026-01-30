@@ -1,0 +1,15 @@
+C:\Projects\Dotnet_Training\YogaMeditation\bin\Debug\net10.0\YogaMeditation.exe
+C:\Projects\Dotnet_Training\YogaMeditation\bin\Debug\net10.0\YogaMeditation.deps.json
+C:\Projects\Dotnet_Training\YogaMeditation\bin\Debug\net10.0\YogaMeditation.runtimeconfig.json
+C:\Projects\Dotnet_Training\YogaMeditation\bin\Debug\net10.0\YogaMeditation.dll
+C:\Projects\Dotnet_Training\YogaMeditation\bin\Debug\net10.0\YogaMeditation.pdb
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfoInputs.cache
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfo.cs
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.sourcelink.json
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.dll
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\refint\YogaMeditation.dll
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.pdb
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\YogaMeditation.genruntimeconfig.cache
+C:\Projects\Dotnet_Training\YogaMeditation\obj\Debug\net10.0\ref\YogaMeditation.dll
