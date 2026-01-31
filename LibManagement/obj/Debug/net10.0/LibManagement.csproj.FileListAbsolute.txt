@@ -1,0 +1,15 @@
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/bin/Debug/net10.0/LibManagement
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/bin/Debug/net10.0/LibManagement.deps.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/bin/Debug/net10.0/LibManagement.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/bin/Debug/net10.0/LibManagement.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/bin/Debug/net10.0/LibManagement.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.sourcelink.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/refint/LibManagement.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/LibManagement.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/LibManagement/obj/Debug/net10.0/ref/LibManagement.dll
