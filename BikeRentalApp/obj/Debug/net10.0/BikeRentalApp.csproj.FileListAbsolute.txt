@@ -1,0 +1,15 @@
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/bin/Debug/net10.0/BikeRentalApp
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/bin/Debug/net10.0/BikeRentalApp.deps.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/bin/Debug/net10.0/BikeRentalApp.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/bin/Debug/net10.0/BikeRentalApp.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/bin/Debug/net10.0/BikeRentalApp.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.sourcelink.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/refint/BikeRentalApp.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/BikeRentalApp.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/BikeRentalApp/obj/Debug/net10.0/ref/BikeRentalApp.dll
