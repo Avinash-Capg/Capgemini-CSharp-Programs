@@ -1,0 +1,15 @@
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/bin/Debug/net10.0/FactoryRobotHazardAnalyzer
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/bin/Debug/net10.0/FactoryRobotHazardAnalyzer.deps.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/bin/Debug/net10.0/FactoryRobotHazardAnalyzer.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/bin/Debug/net10.0/FactoryRobotHazardAnalyzer.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/bin/Debug/net10.0/FactoryRobotHazardAnalyzer.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.sourcelink.json
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/refint/FactoryRobotHazardAnalyzer.dll
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.pdb
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini-CSharp-Programs/FactoryRobotHazardAnalyzer/obj/Debug/net10.0/ref/FactoryRobotHazardAnalyzer.dll
